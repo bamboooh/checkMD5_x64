@@ -1,7 +1,0 @@
-C:\Users\71346685\source\repos\checkMD5_x64\checkMD5_x64\obj\Debug\checkMD5_x64.csproj.AssemblyReference.cache
-C:\Users\71346685\source\repos\checkMD5_x64\checkMD5_x64\obj\Debug\checkMD5_x64.csproj.CoreCompileInputs.cache
-C:\Users\71346685\source\repos\checkMD5_x64\checkMD5_x64\bin\Debug\checkMD5_x64.exe.config
-C:\Users\71346685\source\repos\checkMD5_x64\checkMD5_x64\bin\Debug\checkMD5_x64.exe
-C:\Users\71346685\source\repos\checkMD5_x64\checkMD5_x64\bin\Debug\checkMD5_x64.pdb
-C:\Users\71346685\source\repos\checkMD5_x64\checkMD5_x64\obj\Debug\checkMD5_x64.exe
-C:\Users\71346685\source\repos\checkMD5_x64\checkMD5_x64\obj\Debug\checkMD5_x64.pdb
